@@ -1,0 +1,34 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(122,75,75,1.00) 0%,rgba(255,252,252,1.00) 54.92%,rgba(255,255,255,1.00) 60.61%,rgba(122,75,75,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(122,75,75,1.00) 0%,rgba(255,252,252,1.00) 54.92%,rgba(255,255,255,1.00) 60.61%,rgba(122,75,75,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(122,75,75,1.00) 0%,rgba(255,252,252,1.00) 54.92%,rgba(255,255,255,1.00) 60.61%,rgba(122,75,75,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(122,75,75,1.00) 0%,rgba(255,252,252,1.00) 54.92%,rgba(255,255,255,1.00) 60.61%,rgba(122,75,75,1.00) 100%);
+}
+
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #6E4041;
+}
+.card.col-md-4 .card-body .btn.btn-primary {
+    background-color: #6E4041;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #672121;
+    color: #FDFDFD;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #672121;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #672121;
+    color: #F9F9F9;
+}
+#headingOne1 .mb-0 a {
+    color: #FFFFFF;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
